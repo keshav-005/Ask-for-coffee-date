@@ -13,7 +13,7 @@
 const CONFIG = {
 
   /* ─── GENERAL ──────────────────────────────────────────────── */
-  name: "Medha",                         // The birthday person's name
+  name: "[Name]",                         // The birthday person's name
 
   /* ─── LOGIN PAGE ───────────────────────────────────────────── */
   password: "finally",                    // Password to unlock the site
@@ -63,7 +63,7 @@ const CONFIG = {
 
   // Dialogue bubbles shown during the coffee animation
   dialogues: [
-    "Happy Birthday Medha! 🎉",
+    "Happy Birthday! 🎉",
     "I hope you get all the happiness in the world , you really deserve it 💫",
     "Thanks for coming here, there's something I wrote for you... please take it light 💌",
   ],
@@ -73,7 +73,7 @@ const CONFIG = {
   finalButtonText: "Read the Letter",
 
   /* ─── LETTER PAGE ──────────────────────────────────────────── */
-  letterGreeting: "Happy Birthday Medha 🥳✨",
+  letterGreeting: "Happy Birthday [Name] 🥳✨",
   letterDate: "November 15, 2025 at 11:11",
 
   // Each item becomes a <p> paragraph in the letter
@@ -84,7 +84,7 @@ const CONFIG = {
 
     "I've been building this site just to make your day feel even half as special as you make everyone around you feel without trying. You deserve the whole world and thousand surprises, but I never earned the rights to give them. Still, I poured what I could into this, because even our short text threads felt like gifts. Every second with you, even across screens, has been a highlight reel I replay when the world goes quiet.",
 
-    "Medha - Goddess Saraswati's name carved in calm eyes that don't just look beautiful, they hold entire stories. Your wisdom turns formal chats into something deeper. Your kindness lights up lives without effort, especially mine. I genuinely think: how can someone be this smart, this kind, this effortlessly amazing every single time your name pops up? You have no idea how rare that is.",
+    "[Name] - A name that carved in calm eyes that don't just look beautiful, they hold entire stories. Your wisdom turns formal chats into something deeper. Your kindness lights up lives without effort, especially mine. I genuinely think: how can someone be this smart, this kind, this effortlessly amazing every single time your name pops up? You have no idea how rare that is.",
 
     "I asked to be your online friend knowing the answer would be no, but then when our Chemistry ma'am appreciated you in class when you were absent, and damn, that glow hit me hard. I wanted to tell you but boundaries held me back. And soon exams ended, so I gathered courage and asked anyway. And you? You didn't laugh, didn't expose me, didn't make me feel small. That kindness alone proves my choice was perfect.",
 
