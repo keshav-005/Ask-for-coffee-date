@@ -8,7 +8,7 @@ Welcome! You probably found this link because you wanted to send someone somethi
 Sometimes, asking someone for coffee can be a bit scary. I wanted to turn that invitation into a fun, interactive experience. This little site is my way of saying I appreciate you and would love to spend a bit of time catching up.
 
 ## 🎨 How It Works
-- **Interactive Invite**: Try saying "No" and see what happens (I promise it's cute!).
+- **Interactive Invite**: Try saying "No" and see what happens .
 - **Animated Scene**: Once you say "Yes," you'll see a cozy little café scene with characters, coffee, and rising steam. 
 - **Purely Personal**: No sophisticated servers or databases—just some code and a lot of heart.
 
